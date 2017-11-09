@@ -1,0 +1,19 @@
+legend {
+	color: #000b73;
+	margin-top: 20px;
+	border-bottom: 1px solid #000b73;
+	font-size: 22px;
+}
+
+.btn {
+	font-size: 16px;
+}
+
+.btn-primary {
+	background-color: #000b73;
+}
+
+.btn-primary:hover {
+	background-color: #3846cb;
+	border: 1px solid #3846cb;
+}
